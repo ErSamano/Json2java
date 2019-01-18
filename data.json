@@ -1,0 +1,29 @@
+[
+  {
+    "firstName":"Marco Polo",
+    "lastName":"Amparo",
+    "age":"25",
+    "address":{"street":"123 Main St",
+      "city":"Readmon",
+      "zip":"98007"},
+    "cars":["Toyota Corolla","Honda Civic"]
+  },
+  {
+    "firstName":"Miroslav",
+    "lastName":"Klose",
+    "age":"37",
+    "address":{"street":"123 Main St",
+      "city":"Munchen",
+      "zip":"34567"},
+    "cars":["Mercedes Benz Class S","AMG C60"]
+  },
+  {
+    "firstName":"Bastian",
+    "lastName":"Sven@#$#$52213er",
+    "age":"34",
+    "address":{"street":"123 Main St",
+      "city":"Chicago",
+      "zip":"600033"},
+    "cars":["Ford Scape","Bentley Continental"]
+  }
+]
